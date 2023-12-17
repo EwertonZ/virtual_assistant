@@ -1,0 +1,7 @@
+#Arquivos de audio
+*.mp3
+*.mp4
+
+#Ambiente virtual
+venv/
+env/
